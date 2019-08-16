@@ -1,0 +1,57 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/Nesoy/spring-security" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Nesoy/springboot-webservice" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-feed-manager" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-scraper-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-swagger" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="SbtLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Desktop/Story/story-data-common" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-gsuite-gateway" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-host" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-instant-feed-manager" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-qube" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-spark-job2" value="PREVIEW" />
+            <entry key="$USER_HOME$/Desktop/Story/story-sray" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customVMPath" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8.0_211</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
