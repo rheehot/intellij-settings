@@ -1,7 +1,6 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="graphqls" type="PLAIN_TEXT" />
       <mapping pattern=".project.info" type="YAML" />
     </extensionMap>
   </component>
