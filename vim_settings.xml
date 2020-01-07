@@ -59,6 +59,9 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
       <key-repeat enabled="true" />
