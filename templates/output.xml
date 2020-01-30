@@ -1,0 +1,7 @@
+<templateSet group="output">
+  <template name="stest" value="@Test&#10;public void $END$() {&#10;  //given&#10;  &#10;  //when&#10;  &#10;  //then&#10;}" description="Create Test Template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
