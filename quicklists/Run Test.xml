@@ -1,4 +1,0 @@
-<list display="Run Test">
-  <action id="ChooseRunConfiguration" />
-  <action id="RunToCursor" />
-</list>
