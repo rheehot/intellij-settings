@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <removed_mapping pattern="Dockerfile" type="Dockerfile" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
       <mapping pattern=".project.info" type="YAML" />
