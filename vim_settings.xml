@@ -122,8 +122,8 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/docs/step1.md" timestamp="1587367576678" />
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587392532489">
-        <mark key="[" line="70" column="86" />
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587396393645">
+        <mark key="[" line="94" column="76" />
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
         <mark key="^" line="39" column="13" />
@@ -140,19 +140,17 @@
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/FrameTest.java" timestamp="1587370834462">
         <mark key="[" line="139" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/ScoreType.java" timestamp="1587392744048">
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/ScoreType.java" timestamp="1587396366077">
         <mark key="[" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587369750895">
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587396337248">
         <mark key="[" line="27" column="5" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/UnitScore.java" timestamp="1587369616286">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/BowlingThrowStrategy.java" timestamp="1587391662331">
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="5" column="4" />
-        <mark key="." line="5" column="4" />
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/BowlingThrowStrategy.java" timestamp="1587396343882">
+        <mark key="[" line="5" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1587367701163">
         <mark key="[" line="0" column="0" />
