@@ -122,61 +122,54 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/docs/step1.md" timestamp="1587367576678" />
-      <file name="/Dummy.txt" timestamp="1587367701163">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/job/Crawling.java" timestamp="1587265162377">
-        <mark key="[" line="49" column="46" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/clients/ClientConfig.java" timestamp="1587270506581">
-        <mark key="[" line="32" column="17" />
-        <mark key="]" line="31" column="47" />
-        <mark key="^" line="31" column="47" />
-        <mark key="." line="31" column="47" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-hbase-gateway/README.md" timestamp="1587029215053">
-        <mark key="[" line="9" column="7" />
-      </file>
       <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/clients/SnackClients.java" timestamp="1587271045760">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587367888685">
-        <mark key="[" line="65" column="54" />
-        <mark key="]" line="36" column="13" />
-        <mark key="." line="36" column="12" />
-        <mark key="^" line="36" column="13" />
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587372801891">
+        <mark key="[" line="70" column="86" />
+        <mark key="]" line="14" column="46" />
+        <mark key="." line="14" column="46" />
+        <mark key="^" line="39" column="13" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/NormalFrameTest.java" timestamp="1587367410757">
-        <mark key="[" line="104" column="39" />
+      <file name="/a.dummy" timestamp="1587369281784">
+        <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/NormalFrame.java" timestamp="1587367479057">
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587372578189">
+        <mark key="[" line="66" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587373318781">
+        <mark key="[" line="20" column="66" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/FrameTest.java" timestamp="1587370834462">
+        <mark key="[" line="139" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587369750895">
+        <mark key="[" line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/UnitScore.java" timestamp="1587369616286">
+        <mark key="[" line="2" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1587367701163">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/FrameNo.java" timestamp="1587369245745">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587372307846">
+        <mark key="[" line="10" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/NormalFrameTest.java" timestamp="1587369295455">
+        <mark key="[" line="14" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/NormalFrame.java" timestamp="1587369169376">
         <mark key="[" line="62" column="23" />
         <mark key="]" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/cover-checker/pom.xml" timestamp="1587110743405">
-        <mark key="[" line="87" column="40" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/domain/CrawlingDto.java" timestamp="1587265091845">
-        <mark key="[" line="13" column="26" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587367007195">
-        <mark key="[" line="18" column="89" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/test/java/com/snack/news/clients/SnackClientsTest.java" timestamp="1587264988597">
-        <mark key="[" line="13" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/all-new-story-admin/build.gradle" timestamp="1587117040438">
-        <mark key="[" line="34" column="24" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/ScoreType.java" timestamp="1587367679750">
-        <mark key="[" line="13" column="23" />
-      </file>
       <file name="/fragment.java" timestamp="1587367701167">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587367442888">
-        <mark key="[" line="30" column="29" />
       </file>
     </filemarks>
     <jumps>
@@ -285,10 +278,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>S</text>
+        <text encoding="base64">U1BMSVRURVIg</text>
       </register>
       <register name="-" type="4">
-        <text>S</text>
+        <text encoding="base64">U1BMSVRURVIg</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
