@@ -137,8 +137,8 @@
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587372578189">
         <mark key="[" line="66" column="36" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587373318781">
-        <mark key="[" line="20" column="66" />
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587374514066">
+        <mark key="[" line="19" column="66" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/FrameTest.java" timestamp="1587370834462">
         <mark key="[" line="139" column="44" />
@@ -157,8 +157,8 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587372307846">
-        <mark key="[" line="10" column="15" />
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587374665298">
+        <mark key="[" line="10" column="38" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/NormalFrameTest.java" timestamp="1587369295455">
         <mark key="[" line="14" column="7" />
@@ -168,7 +168,7 @@
         <mark key="]" line="62" column="15" />
         <mark key="." line="62" column="15" />
       </file>
-      <file name="/fragment.java" timestamp="1587367701167">
+      <file name="/fragment.java" timestamp="1587374627492">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
