@@ -1,6 +1,60 @@
 <application>
-  <component name="VimSettings">
-    <state version="5" enabled="true" />
+  <component name="VimEditorSettings">
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxwdWJsaWNcPg==</entry>
+        <entry>validation</entry>
+        <entry>need</entry>
+        <entry>REDIS</entry>
+        <entry>양쪽</entry>
+        <entry>debug</entry>
+        <entry>getReadActivities</entry>
+        <entry>getNotifications0</entry>
+        <entry>addNotification</entry>
+        <entry>play</entry>
+        <entry encoding="base64">XDwvXD4=</entry>
+        <entry encoding="base64">XDx2aWV3ZXJJZFw+</entry>
+        <entry encoding="base64">XDxhY3Rpdml0eVNlYXJjaFBhcmFtZXRlclw+</entry>
+        <entry encoding="base64">XDxmaW5kQWN0aXZpdHlJZHNCeVZlcmJcPg==</entry>
+        <entry encoding="base64">XDxhY3Rpdml0eURhb1w+</entry>
+        <entry encoding="base64">XDxXaXRoTW9ja1VzZXJcPg==</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry>scrap</entry>
+        <entry encoding="base64">XDxTdHJpbmdcPg==</entry>
+        <entry encoding="base64">XDwwXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>82</entry>
+        <entry>234</entry>
+        <entry>168</entry>
+        <entry>81</entry>
+        <entry>154</entry>
+        <entry>101</entry>
+        <entry>173</entry>
+        <entry>130</entry>
+        <entry>160</entry>
+        <entry>68</entry>
+        <entry>wq</entry>
+        <entry>165</entry>
+        <entry>49</entry>
+        <entry>210</entry>
+        <entry>ㅍㄴ</entry>
+        <entry>258</entry>
+        <entry>178</entry>
+        <entry encoding="base64">JzwsJz4yNzY=</entry>
+        <entry>276</entry>
+        <entry>vs</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed J</text>
@@ -63,9 +117,278 @@
         <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/docs/step1.md" timestamp="1587367576678" />
+      <file name="/Dummy.txt" timestamp="1587367701163">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/job/Crawling.java" timestamp="1587265162377">
+        <mark key="[" line="49" column="46" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/clients/ClientConfig.java" timestamp="1587270506581">
+        <mark key="[" line="32" column="17" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-hbase-gateway/README.md" timestamp="1587029215053">
+        <mark key="[" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/clients/SnackClients.java" timestamp="1587271045760">
+        <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587367888685">
+        <mark key="[" line="65" column="54" />
+        <mark key="]" line="36" column="13" />
+        <mark key="." line="36" column="12" />
+        <mark key="^" line="36" column="13" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/NormalFrameTest.java" timestamp="1587367410757">
+        <mark key="[" line="104" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/NormalFrame.java" timestamp="1587367479057">
+        <mark key="[" line="62" column="23" />
+        <mark key="]" line="62" column="15" />
+        <mark key="." line="62" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/cover-checker/pom.xml" timestamp="1587110743405">
+        <mark key="[" line="87" column="40" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/domain/CrawlingDto.java" timestamp="1587265091845">
+        <mark key="[" line="13" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587367007195">
+        <mark key="[" line="18" column="89" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/test/java/com/snack/news/clients/SnackClientsTest.java" timestamp="1587264988597">
+        <mark key="[" line="13" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/all-new-story-admin/build.gradle" timestamp="1587117040438">
+        <mark key="[" line="34" column="24" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/ScoreType.java" timestamp="1587367679750">
+        <mark key="[" line="13" column="23" />
+      </file>
+      <file name="/fragment.java" timestamp="1587367701167">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587367442888">
+        <mark key="[" line="30" column="29" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
+      <jump line="36" column="4" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/standard/StandardTest.java" />
+      <jump line="31" column="4" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/assertions/AssertionsDemo.java" />
+      <jump line="85" column="4" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/assertions/AssertionsDemo.java" />
+      <jump line="23" column="32" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/assumptions/AssumptionsDemo.java" />
+      <jump line="51" column="79" filename="$MAVEN_REPOSITORY$/com/kakao/story/story-common/2.0.0-SNAPSHOT/story-common-2.0.0-SNAPSHOT-sources.jar!/com/kakao/story/common/serializer/map/MapSerializerObjectMapper.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/test/java/com/kakao/story/v2/service/NewNotificationServiceImplTest.java" />
+      <jump line="156" column="4" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NotificationServiceImpl.java" />
+      <jump line="37" column="41" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="135" column="30" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/nesoy/demo/src/main/java/com/example/demo/domain/Person.java" />
+      <jump line="26" column="16" filename="$USER_HOME$/Desktop/nesoy/demo/src/test/java/com/example/demo/request/Test.java" />
+      <jump line="821" column="4" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NotificationServiceImpl.java" />
+      <jump line="104" column="26" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NotificationServiceImpl.java" />
+      <jump line="202" column="16" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="245" column="12" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="453" column="20" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="46" column="13" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="50" column="13" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="315" column="17" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="49" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/service/NotificationManagerService.java" />
+      <jump line="365" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="304" column="12" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NotificationServiceImpl.java" />
+      <jump line="824" column="10" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="109" column="71" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="723" column="73" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="91" column="77" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="490" column="24" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NotificationServiceImpl.java" />
+      <jump line="119" column="43" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NewNotificationServiceImpl.java" />
+      <jump line="15" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/service/NotificationConfig.java" />
+      <jump line="458" column="27" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusNotificationServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusNotificationServiceImpl.java" />
+      <jump line="23" column="46" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusNotificationServiceImpl.java" />
+      <jump line="25" column="31" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusNotificationServiceImpl.java" />
+      <jump line="84" column="5" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/template/NotificationHBaseGatewayTemplate.java" />
+      <jump line="111" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/notification/template/NotificationHBaseGatewayTemplate.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ChannelNotificationServiceImpl.java" />
+      <jump line="379" column="23" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ChannelNotificationServiceImpl.java" />
+      <jump line="584" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ChannelNotificationServiceImpl.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Desktop/story/story-spec/.story-spec-docker" />
+      <jump line="33" column="22" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/ExploreServiceDao.java" />
+      <jump line="64" column="33" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/ExploreServiceImpl.java" />
+      <jump line="108" column="53" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/template/ExploreTemplateUtils.java" />
+      <jump line="127" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/template/ExploreTemplateUtils.java" />
+      <jump line="107" column="74" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/template/ExploreTemplateUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/template/ExploreTemplateUtils.java" />
+      <jump line="351" column="35" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/SuggestActivityService.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/SuggestActivityService.java" />
+      <jump line="12" column="34" filename="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/SuggestActivityItemResult.java" />
+      <jump line="27" column="42" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/ButtonExploreItemCardService.java" />
+      <jump line="23" column="57" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/explore/ButtonExploreItemMapSerializer.java" />
+      <jump line="79" column="28" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/SuggestActivityFeedItemBuilder.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Desktop/nesoy/rest-assured-tutorial/src/test/java/step3/HttpItemTest.java" />
+      <jump line="4" column="4" filename="$USER_HOME$/Desktop/nesoy/java-lotto-1/src/main/java/domain/lotto/Lotto.java" />
+      <jump line="35" column="10" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NoticeServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/NoticeServiceImpl.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/processor/FollowFeedProcessor.java" />
+      <jump line="9" column="13" filename="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/AggregatedVirtualActivityItem.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/AggregatedVirtualActivityItem.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/ActivityDao.java" />
+      <jump line="1200" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/ActivityDao.java" />
+      <jump line="91" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/ActivityCountDao.java" />
+      <jump line="41" column="50" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" />
+      <jump line="148" column="31" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/activity/talk/ActivityForTalkServiceImpl.java" />
+      <jump line="39" column="47" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/activity/talk/ActivityForTalkServiceImpl.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/activity/talk/ActivityForTalkServiceImpl.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/activity/talk/ActivityForTalkServiceImpl.java" />
+      <jump line="2163" column="36" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ActivityServiceImpl.java" />
+      <jump line="2168" column="99" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ActivityServiceImpl.java" />
+      <jump line="2164" column="95" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ActivityServiceImpl.java" />
+      <jump line="2183" column="30" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ActivityServiceImpl.java" />
+      <jump line="37" column="23" filename="$USER_HOME$/Desktop/nesoy/java-lotto-1/src/main/java/input/SellerReader.java" />
+      <jump line="9" column="4" filename="$USER_HOME$/Desktop/nesoy/spring-security-example/src/main/java/com/nesoy/springsecurity/config/SecurityConfig.java" />
+      <jump line="48" column="5" filename="$USER_HOME$/Desktop/nesoy/spring-security-example/src/test/java/com/nesoy/springsecurity/account/AccountControllerTest.java" />
+      <jump line="138" column="39" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/VirtualFeedService.java" />
+      <jump line="139" column="36" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/VirtualFeedService.java" />
+      <jump line="147" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/VirtualFeedService.java" />
+      <jump line="34" column="43" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" />
+      <jump line="23" column="10" filename="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/GameOutput.java" />
+      <jump line="95" column="20" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="73" column="102" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="77" column="33" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="78" column="49" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="79" column="49" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="80" column="65" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="81" column="47" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="12" column="60" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="69" column="40" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="71" column="40" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FavoriteChannelMapSerializer.java" />
+      <jump line="83" column="8" filename="$USER_HOME$/Desktop/story/story-admin/app/controllers/OperatorCardController.java" />
+      <jump line="73" column="23" filename="$USER_HOME$/Desktop/story/story-admin/app/com/kakao/story/admin/service/OperatorCardService.java" />
+      <jump line="36" column="65" filename="$USER_HOME$/Desktop/nesoy/spring-security-example/src/main/java/com/nesoy/springsecurity/config/SecurityConfig.java" />
+      <jump line="33" column="4" filename="$USER_HOME$/Desktop/nesoy/spring-security-example/src/main/java/com/nesoy/springsecurity/config/SecurityConfig.java" />
+      <jump line="85" column="53" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Desktop/kakao/all-new-story-admin/build.gradle" />
+      <jump line="69" column="0" filename="$USER_HOME$/Desktop/kakao/all-new-story-admin/build.gradle" />
+      <jump line="10" column="8" filename="$USER_HOME$/Desktop/kakao/all-new-story-admin/admin/src/main/java/com/kakao/story/admin/app/AppController.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Desktop/kakao/all-new-story-admin/build.gradle" />
+      <jump line="648" column="12" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/FriendRecommendServiceImpl.java" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="4">
+        <text>S</text>
+      </register>
+      <register name="-" type="4">
+        <text>S</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwwXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">CQ==</text>
+      </register>
+      <register name="1" type="4">
+        <text>{headers: {
+				0:{sorter:'text'},
+				1:{sorter:'number'},
+				2:{sorter:'number'},
+				3:{sorter:'number'},
+				4:{sorter:'number'},
+				5:{sorter:'number'},
+				6:{sorter:'number'},
+				7:{sorter:'number'},
+				8:{sorter:'number'},
+				9:{sorter:'number'},
+				10:{sorter:'number'},
+				11:{sorter:'number'}}
+		});</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">CQkJCQkJLmdldFZpZGVvT2JqZWN0TWFwKG1lZGlhVXJsQ29uZmlnLCBBY3Rpdml0eVZpZGVvT2JqZWN0LmNyZWF0ZSh2aWRlb01hbmFnZXIuZ2V0VmlkZW9VcmwoZmVhdHVyZUd1aWRlSXRlbS5pbWFnZVVybCkpLCBzZXNzaW9uKSk7CgkJCX0KCQkJZmVhdHVyZUd1aWRlTWFwLnB1dCgiaW1hZ2VfdXJsIiwgdmlkZW9NYW5hZ2VyLmdldFRodW1ibmFpbFBhdGgoZmVhdHVyZUd1aWRlSXRlbS5pbWFnZVVybCkpOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQkJCWZlYXR1cmVHdWlkZU1hcC5wdXQoIm1lZGlhIiwgQWN0aXZpdHlWaWRlb09iamVjdE1hcFNlcmlhbGl6ZXIK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQkJaWYoIm1wNCIuZXF1YWxzKGZlYXR1cmVHdWlkZS50eXBlKSAmJiBGZWF0dXJlVXRpbHMuaXNTdXBwb3J0ZWRGZWF0dXJlKHNlc3Npb24sIEZlYXR1cmVUeXBlLnN1cHBvcnRfYWxsX25ld19zdG9yeSkpIHsK</text>
+      </register>
+      <register name="v" type="4">
+        <text>f</text>
+      </register>
+      <register name="w" type="4">
+        <keys>
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="67" mods="130" />
+          <key char="65535" code="67" mods="130" />
+          <key char="58" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="65535" code="40" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="66" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="73" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="65535" code="27" mods="0" />
+        </keys>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CmNvbmZpZ3VyZSgpIHsKICAgIC8qKgogICAgICog64K067aA7JeQ7IScIHBsdWdpbnMg64+Z7J6R7ZWY7KeAIOyViuuKlCDsnbTsiogKICAgICAqLw==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8g7ISc67iMIO2UhOuhnOygne2KuOulvCDrsJjtmZgKe30K</text>
+      </register>
+      <register name="9" type="2">
+        <text>plugins {
+    id 'java'
+}</text>
+      </register>
+      <register name=":" type="4">
+        <text>vs</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDwwXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwwXD4=</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="true" />
     <notifications>
       <idea-join enabled="true" />
       <idea-put enabled="false" />
