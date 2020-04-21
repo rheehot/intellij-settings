@@ -122,11 +122,7 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587435839889" />
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587396393645">
-        <mark key="]" line="14" column="46" />
-        <mark key="." line="14" column="46" />
-        <mark key="^" line="39" column="13" />
-      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/EmoticonClient.java" timestamp="1587443447197" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/ProfileServiceImpl.java" timestamp="1587436094391" />
       <file name="$USER_HOME$/Desktop/story/story-common-v2/settings.gradle" timestamp="1587430655516">
         <mark key="[" line="1" column="9" />
@@ -134,11 +130,9 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/discovery/DiscoveryController.java" timestamp="1587436571671" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/channel/release/PlusReleaseController.java" timestamp="1587436847903" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/base/PapiPostBaseController.java" timestamp="1587436508278" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/papi/PapiMusicController.java" timestamp="1587443423721" />
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587430349945">
         <mark key="[" line="19" column="66" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/ScoreType.java" timestamp="1587396366077">
-        <mark key="[" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-worker-external/src/main/java/com/kakao/story/worker/external/StoryServerSignalHandler.java" timestamp="1587432365391" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/banner/BannersController.java" timestamp="1587436443128" />
