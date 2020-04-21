@@ -127,13 +127,15 @@
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587475126439">
         <mark key="[" line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/BowlingThrowStrategy.java" timestamp="1587479209301">
-        <mark key="[" line="17" column="4" />
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/BowlingThrowStrategy.java" timestamp="1587480136254">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587477999305">
         <mark key="[" line="14" column="81" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587479193305">
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587480127559">
         <mark key="[" line="49" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/spotless-example/src/main/resources/convention/spotless-example.importorder" timestamp="1587458286350">
@@ -264,10 +266,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>isFinalFrame</text>
+        <text>frameNo</text>
       </register>
       <register name="-" type="4">
-        <text>isFinalFrame</text>
+        <text>frameNo</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
