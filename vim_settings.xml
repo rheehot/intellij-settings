@@ -121,7 +121,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/docs/step1.md" timestamp="1587367576678" />
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587396393645">
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
@@ -132,6 +131,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587390892133">
         <mark key="[" line="66" column="36" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common-v2/settings.gradle" timestamp="1587430655516">
+        <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587430349945">
         <mark key="[" line="19" column="66" />
@@ -167,6 +169,9 @@
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/FinalThrowStrategyTest.java" timestamp="1587391106264">
         <mark key="[" line="38" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common-v2/kakao-clients/hellomis-client/build.gradle" timestamp="1587430842381">
+        <mark key="[" line="13" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/NormalFrame.java" timestamp="1587369169376">
         <mark key="[" line="62" column="23" />
