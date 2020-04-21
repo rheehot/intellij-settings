@@ -4,6 +4,7 @@
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern=".ideavimrc" type="PLAIN_TEXT" />
       <mapping pattern="CODEOWNERS" type="PLAIN_TEXT" />
+      <mapping ext="importorder" type="PLAIN_TEXT" />
       <mapping pattern=".project.info" type="YAML" />
     </extensionMap>
   </component>
