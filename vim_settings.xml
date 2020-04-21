@@ -121,20 +121,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-admin/app/models/operator_card/OperatorActivityDto.java" timestamp="1587448858558">
-        <mark key="[" line="30" column="0" />
+      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/gs-serving-web-content/initial/build.gradle" timestamp="1587451993707">
+        <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-admin/test/com/kakao/story/admin/service/OperatorCardServiceTest.java" timestamp="1587448171643">
-        <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-admin/app/com/kakao/story/admin/service/OperatorCardService.java" timestamp="1587448554059">
-        <mark key="[" line="85" column="28" />
-        <mark key="]" line="43" column="0" />
-        <mark key="^" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1587448135056">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/story-admin-web/build.gradle" timestamp="1587452164873">
+        <mark key="[" line="1" column="53" />
       </file>
     </filemarks>
     <jumps>
