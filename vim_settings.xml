@@ -140,9 +140,6 @@
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/ScoreType.java" timestamp="1587396366077">
         <mark key="[" line="10" column="37" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/BowlingThrowStrategy.java" timestamp="1587396343882">
-        <mark key="[" line="5" column="17" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-worker-external/src/main/java/com/kakao/story/worker/external/StoryServerSignalHandler.java" timestamp="1587432365391" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/banner/BannersController.java" timestamp="1587436443128" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-worker-external/src/main/java/com/kakao/story/worker/external/listener/AbstractRabbitListener.java" timestamp="1587432324813" />
@@ -151,6 +148,7 @@
       </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-worker-external/src/main/java/com/kakao/story/worker/external/Main.java" timestamp="1587432429389" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/ShareClient.java" timestamp="1587432678643" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/opengraph/OpenGraphController.java" timestamp="1587437342434" />
     </filemarks>
     <jumps>
       <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
