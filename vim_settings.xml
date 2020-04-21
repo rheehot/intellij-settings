@@ -121,7 +121,16 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/build.gradle" timestamp="1587457019189">
+        <mark key="[" line="1" column="13" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/resources/META-INF/v2/applicationContext-localCache.xml" timestamp="1587455121151" />
+      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/README.md" timestamp="1587457037919">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/src/main/java/Main.java" timestamp="1587457241033">
+        <mark key="[" line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/src/main/java/com/kakao/story/admin/app/AppController.java" timestamp="1587452552828">
         <mark key="[" line="4" column="0" />
       </file>
