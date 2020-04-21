@@ -124,6 +124,18 @@
       <file name="$USER_HOME$/Desktop/nesoy/spotless-example/build.gradle" timestamp="1587459355878">
         <mark key="[" line="21" column="25" />
       </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587475126439">
+        <mark key="[" line="19" column="66" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/BowlingThrowStrategy.java" timestamp="1587479209301">
+        <mark key="[" line="17" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587477999305">
+        <mark key="[" line="14" column="81" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587479193305">
+        <mark key="[" line="49" column="47" />
+      </file>
       <file name="$USER_HOME$/Desktop/nesoy/spotless-example/src/main/resources/convention/spotless-example.importorder" timestamp="1587458286350">
         <mark key="[" line="0" column="0" />
       </file>
@@ -131,21 +143,19 @@
       <file name="$USER_HOME$/Desktop/nesoy/spotless-example/README.md" timestamp="1587457037919">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587478042440">
+        <mark key="[" line="27" column="5" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/FrameNo.java" timestamp="1587478362507">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-classification-server/pom.xml" timestamp="1587460680631">
         <mark key="[" line="168" column="26" />
       </file>
-      <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/src/main/java/com/kakao/story/admin/app/AppController.java" timestamp="1587452552828">
-        <mark key="[" line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/elasticsearch/classification/activity/model/ClassifiedActivity.java" timestamp="1587460432043">
         <mark key="[" line="7" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-admin/app/com/kakao/story/admin/dao/ActivityClassificationReferenceItemDao.java" timestamp="1587453026037" />
-      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/gs-serving-web-content/initial/build.gradle" timestamp="1587451993707">
-        <mark key="[" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/story-admin-web/build.gradle" timestamp="1587452549602">
-        <mark key="[" line="1" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -254,10 +264,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">YWN0aXZpdHlJdGVtcy5zdHJlYW0oKS5wZWVrKGl0ZW0gLT4gaXRlbS5vcGVyYXRvckNhcmRJZCA9IG9wZXJhdG9yQWN0aXZpdHlJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTs=</text>
+        <text>isFinalFrame</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWN0aXZpdHlJdGVtcy5zdHJlYW0oKS5wZWVrKGl0ZW0gLT4gaXRlbS5vcGVyYXRvckNhcmRJZCA9IG9wZXJhdG9yQWN0aXZpdHlJZCkuY29sbGVjdChDb2xsZWN0b3JzLnRvTGlzdCgpKTs=</text>
+        <text>isFinalFrame</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
