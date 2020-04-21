@@ -121,10 +121,13 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/src/main/java/com/kakao/story/admin/app/AppController.java" timestamp="1587452552828">
+        <mark key="[" line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/nesoy/spotless-example/gs-serving-web-content/initial/build.gradle" timestamp="1587451993707">
         <mark key="[" line="33" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/story-admin-web/build.gradle" timestamp="1587452164873">
+      <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/story-admin-web/build.gradle" timestamp="1587452549602">
         <mark key="[" line="1" column="53" />
       </file>
     </filemarks>
