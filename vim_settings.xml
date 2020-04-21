@@ -121,20 +121,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/EmoticonClient.java" timestamp="1587443447197" />
-      <file name="/a.dummy" timestamp="1587448046870">
-        <mark key="[" line="0" column="4" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-admin/app/models/operator_card/OperatorActivityDto.java" timestamp="1587448858558">
         <mark key="[" line="30" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/channel/release/PlusReleaseController.java" timestamp="1587436847903" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/papi/PapiMusicController.java" timestamp="1587443423721" />
       <file name="$USER_HOME$/Desktop/story/story-admin/test/com/kakao/story/admin/service/OperatorCardServiceTest.java" timestamp="1587448171643">
         <mark key="[" line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/kc-guid/README.md" timestamp="1587446068114">
-        <mark key="[" line="1" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-admin/app/com/kakao/story/admin/service/OperatorCardService.java" timestamp="1587448554059">
         <mark key="[" line="85" column="28" />
@@ -142,12 +133,6 @@
         <mark key="^" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/opengraph/OpenGraphController.java" timestamp="1587437342434" />
-      <file name="$USER_HOME$/Desktop/story/story-admin/app/com/kakao/story/admin/dao/CampaignDao.java" timestamp="1587447387976" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/discovery/DiscoveryController.java" timestamp="1587436571671" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/base/PapiPostBaseController.java" timestamp="1587436508278" />
-      <file name="$USER_HOME$/Desktop/story/story-admin/app/com/kakao/story/admin/dao/OperatorCardDao.java" timestamp="1587447430743" />
-      <file name="$USER_HOME$/Desktop/story/kc-guid/src/main/java/com/kakao/guid/generator/GuidGenerator.java" timestamp="1587446263764" />
       <file name="/fragment.java" timestamp="1587448135056">
         <mark key="[" line="0" column="0" />
       </file>
