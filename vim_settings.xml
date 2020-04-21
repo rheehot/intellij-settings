@@ -121,13 +121,11 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587432797839" />
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/output/BowlingCommandMode.java" timestamp="1587396393645">
         <mark key="]" line="14" column="46" />
         <mark key="." line="14" column="46" />
         <mark key="^" line="39" column="13" />
-      </file>
-      <file name="/a.dummy" timestamp="1587369281784">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587390892133">
         <mark key="[" line="66" column="36" />
@@ -153,17 +151,11 @@
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/BowlingThrowStrategy.java" timestamp="1587396343882">
         <mark key="[" line="5" column="17" />
       </file>
-      <file name="/Dummy.txt" timestamp="1587367701163">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/FrameNo.java" timestamp="1587369245745">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-worker-external/src/main/java/com/kakao/story/worker/external/StoryServerSignalHandler.java" timestamp="1587432365391" />
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587391652271">
         <mark key="[" line="10" column="69" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-worker-external/src/main/java/com/kakao/story/worker/external/listener/AbstractRabbitListener.java" timestamp="1587432324813" />
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/NormalFrameTest.java" timestamp="1587369295455">
         <mark key="[" line="14" column="7" />
       </file>
@@ -173,11 +165,8 @@
       <file name="$USER_HOME$/Desktop/story/story-common-v2/kakao-clients/hellomis-client/build.gradle" timestamp="1587430842381">
         <mark key="[" line="13" column="14" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/NormalFrame.java" timestamp="1587369169376">
-        <mark key="[" line="62" column="23" />
-        <mark key="]" line="62" column="15" />
-        <mark key="." line="62" column="15" />
-      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-worker-external/src/main/java/com/kakao/story/worker/external/Main.java" timestamp="1587432429389" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/ShareClient.java" timestamp="1587432678643" />
       <file name="/fragment.java" timestamp="1587392520217">
         <mark key="[" line="0" column="0" />
       </file>
