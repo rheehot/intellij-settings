@@ -131,8 +131,14 @@
       <file name="$USER_HOME$/Desktop/nesoy/spotless-example/README.md" timestamp="1587457037919">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-classification-server/pom.xml" timestamp="1587460680631">
+        <mark key="[" line="168" column="26" />
+      </file>
       <file name="$USER_HOME$/Desktop/kakao/all-new-story-admin/src/main/java/com/kakao/story/admin/app/AppController.java" timestamp="1587452552828">
         <mark key="[" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/elasticsearch/classification/activity/model/ClassifiedActivity.java" timestamp="1587460432043">
+        <mark key="[" line="7" column="22" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-admin/app/com/kakao/story/admin/dao/ActivityClassificationReferenceItemDao.java" timestamp="1587453026037" />
       <file name="$USER_HOME$/Desktop/nesoy/spotless-example/gs-serving-web-content/initial/build.gradle" timestamp="1587451993707">
