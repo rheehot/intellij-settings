@@ -147,7 +147,9 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/ActivitySerializer.java" timestamp="1587541437291" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1587515168735" />
       <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/SpotlessController.java" timestamp="1587530665773" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/activity/ActivitiesController.java" timestamp="1587543176830" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/activity/ActivitiesController.java" timestamp="1587545350578">
+        <mark key="[" line="405" column="118" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/base/ActivitiesBaseController.java" timestamp="1587542173700" />
     </filemarks>
     <jumps>
