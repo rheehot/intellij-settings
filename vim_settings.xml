@@ -144,6 +144,9 @@
         <mark key="[" line="168" column="26" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1587515089227" />
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/build.gradle" timestamp="1587529947213">
+        <mark key="[" line="50" column="0" />
+      </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587475126439">
         <mark key="[" line="19" column="66" />
       </file>
@@ -160,6 +163,11 @@
         <mark key="[" line="9" column="44" />
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
+      </file>
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/README.md" timestamp="1587529437439">
+        <mark key="[" line="6" column="5" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -268,10 +276,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>frameNo</text>
+        <text>Obviously</text>
       </register>
       <register name="-" type="4">
-        <text>frameNo</text>
+        <text>Obviously</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
@@ -279,7 +287,13 @@
       <register name="0" type="4">
         <text encoding="base64">CQ==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text>- 1. IntelliJ#1.IntelliJ-CodeStyleGuide</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">LSDsubTsubTsmKTsiqTthqDrpqwg7YyM7Yq4ID4gU3BvdGxlc3MgPiBpbWFnZTIwMjAtNC0yMl8xMS03LTQ3LnBuZwo=</text>
+      </register>
+      <register name="3" type="4">
         <text>{headers: {
 				0:{sorter:'text'},
 				1:{sorter:'number'},
@@ -295,20 +309,14 @@
 				11:{sorter:'number'}}
 		});</text>
       </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CQkJCQkJLmdldFZpZGVvT2JqZWN0TWFwKG1lZGlhVXJsQ29uZmlnLCBBY3Rpdml0eVZpZGVvT2JqZWN0LmNyZWF0ZSh2aWRlb01hbmFnZXIuZ2V0VmlkZW9VcmwoZmVhdHVyZUd1aWRlSXRlbS5pbWFnZVVybCkpLCBzZXNzaW9uKSk7CgkJCX0KCQkJZmVhdHVyZUd1aWRlTWFwLnB1dCgiaW1hZ2VfdXJsIiwgdmlkZW9NYW5hZ2VyLmdldFRodW1ibmFpbFBhdGgoZmVhdHVyZUd1aWRlSXRlbS5pbWFnZVVybCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCWZlYXR1cmVHdWlkZU1hcC5wdXQoIm1lZGlhIiwgQWN0aXZpdHlWaWRlb09iamVjdE1hcFNlcmlhbGl6ZXIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJaWYoIm1wNCIuZXF1YWxzKGZlYXR1cmVHdWlkZS50eXBlKSAmJiBGZWF0dXJlVXRpbHMuaXNTdXBwb3J0ZWRGZWF0dXJlKHNlc3Npb24sIEZlYXR1cmVUeXBlLnN1cHBvcnRfYWxsX25ld19zdG9yeSkpIHsK</text>
+      <register name="6" type="4">
+        <text encoding="base64">CQkJCQkJLmdldFZpZGVvT2JqZWN0TWFwKG1lZGlhVXJsQ29uZmlnLCBBY3Rpdml0eVZpZGVvT2JqZWN0LmNyZWF0ZSh2aWRlb01hbmFnZXIuZ2V0VmlkZW9VcmwoZmVhdHVyZUd1aWRlSXRlbS5pbWFnZVVybCkpLCBzZXNzaW9uKSk7CgkJCX0KCQkJZmVhdHVyZUd1aWRlTWFwLnB1dCgiaW1hZ2VfdXJsIiwgdmlkZW9NYW5hZ2VyLmdldFRodW1ibmFpbFBhdGgoZmVhdHVyZUd1aWRlSXRlbS5pbWFnZVVybCkpOwo=</text>
       </register>
       <register name="v" type="4">
         <text>f</text>
@@ -345,16 +353,14 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmNvbmZpZ3VyZSgpIHsKICAgIC8qKgogICAgICog64K067aA7JeQ7IScIHBsdWdpbnMg64+Z7J6R7ZWY7KeAIOyViuuKlCDsnbTsiogKICAgICAqLw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJCWZlYXR1cmVHdWlkZU1hcC5wdXQoIm1lZGlhIiwgQWN0aXZpdHlWaWRlb09iamVjdE1hcFNlcmlhbGl6ZXIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8g7ISc67iMIO2UhOuhnOygne2KuOulvCDrsJjtmZgKe30K</text>
+        <text encoding="base64">CQkJaWYoIm1wNCIuZXF1YWxzKGZlYXR1cmVHdWlkZS50eXBlKSAmJiBGZWF0dXJlVXRpbHMuaXNTdXBwb3J0ZWRGZWF0dXJlKHNlc3Npb24sIEZlYXR1cmVUeXBlLnN1cHBvcnRfYWxsX25ld19zdG9yeSkpIHsK</text>
       </register>
-      <register name="9" type="2">
-        <text>plugins {
-    id 'java'
-}</text>
+      <register name="9" type="4">
+        <text encoding="base64">CmNvbmZpZ3VyZSgpIHsKICAgIC8qKgogICAgICog64K067aA7JeQ7IScIHBsdWdpbnMg64+Z7J6R7ZWY7KeAIOyViuuKlCDsnbTsiogKICAgICAqLw==</text>
       </register>
       <register name=":" type="4">
         <text>vs</text>
