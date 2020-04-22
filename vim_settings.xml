@@ -126,11 +126,16 @@
         <mark key="[" line="49" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1587515089227" />
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/gradle/SpotlessController.java" timestamp="1587532295998">
+        <mark key="[" line="0" column="23" />
+      </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587475126439">
         <mark key="[" line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-maven/pom.xml" timestamp="1587530875063">
-        <mark key="[" line="8" column="33" />
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-maven/pom.xml" timestamp="1587531838051">
+        <mark key="[" line="26" column="37" />
+        <mark key="]" line="51" column="18" />
+        <mark key="." line="51" column="18" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587478042440">
         <mark key="[" line="27" column="5" />
@@ -140,8 +145,7 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/README.md" timestamp="1587530825085">
-        <mark key="[" line="63" column="0" />
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/README.md" timestamp="1587532133166">
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
@@ -155,12 +159,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1587515168735" />
       <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/SpotlessController.java" timestamp="1587530665773" />
-      <file name="$USER_HOME$/Desktop/story/story-classification-server/pom.xml" timestamp="1587460680631">
-        <mark key="[" line="168" column="26" />
-      </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/build.gradle" timestamp="1587529947213">
-        <mark key="[" line="50" column="0" />
-      </file>
     </filemarks>
     <jumps>
       <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
@@ -268,10 +266,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>Obviously</text>
+        <text encoding="base64">SmF2YSA=</text>
       </register>
       <register name="-" type="4">
-        <text>Obviously</text>
+        <text encoding="base64">SmF2YSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
