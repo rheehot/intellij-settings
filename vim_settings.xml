@@ -122,39 +122,15 @@
     <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/model/EmoticonProduct.java" timestamp="1587515056678" />
-      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/build.gradle" timestamp="1587459355878">
-        <mark key="[" line="21" column="25" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587477999305">
-        <mark key="[" line="14" column="81" />
-      </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587480127559">
         <mark key="[" line="49" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/FrameNo.java" timestamp="1587478362507">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1587515168735" />
-      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/src/main/resources/convention/spotless-example.importorder" timestamp="1587458286350">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-classification-server/pom.xml" timestamp="1587460680631">
-        <mark key="[" line="168" column="26" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1587515089227" />
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/build.gradle" timestamp="1587529947213">
-        <mark key="[" line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/app/BowlingGame.java" timestamp="1587475126439">
         <mark key="[" line="19" column="66" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/elasticsearch/classification/activity/model/ClassifiedActivity.java" timestamp="1587460432043">
-        <mark key="[" line="7" column="22" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/spotless-example/README.md" timestamp="1587457037919">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-maven/pom.xml" timestamp="1587530875063">
+        <mark key="[" line="8" column="33" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587478042440">
         <mark key="[" line="27" column="5" />
@@ -164,10 +140,26 @@
         <mark key="]" line="9" column="44" />
         <mark key="." line="9" column="44" />
       </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/README.md" timestamp="1587529437439">
-        <mark key="[" line="6" column="5" />
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/README.md" timestamp="1587530825085">
+        <mark key="[" line="63" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/FinalThrowStrategy.java" timestamp="1587477999305">
+        <mark key="[" line="14" column="81" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/FrameNo.java" timestamp="1587478362507">
+        <mark key="[" line="31" column="15" />
+        <mark key="]" line="31" column="15" />
+        <mark key="." line="31" column="15" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1587515168735" />
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/SpotlessController.java" timestamp="1587530665773" />
+      <file name="$USER_HOME$/Desktop/story/story-classification-server/pom.xml" timestamp="1587460680631">
+        <mark key="[" line="168" column="26" />
+      </file>
+      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/build.gradle" timestamp="1587529947213">
+        <mark key="[" line="50" column="0" />
       </file>
     </filemarks>
     <jumps>
