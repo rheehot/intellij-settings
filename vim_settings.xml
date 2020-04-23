@@ -125,6 +125,9 @@
         <mark key="[" line="586" column="35" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587562576289" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FollowActivityMapSerializer.java" timestamp="1587621114417">
+        <mark key="[" line="123" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/gradle/SpotlessController.java" timestamp="1587532295998">
         <mark key="[" line="0" column="23" />
       </file>
@@ -146,7 +149,7 @@
         <mark key="[" line="14" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/SpotlessController.java" timestamp="1587530665773" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1587619911480">
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1587621055728">
         <mark key="[" line="197" column="80" />
         <mark key="]" line="201" column="72" />
         <mark key="." line="201" column="71" />
