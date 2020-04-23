@@ -144,8 +144,10 @@
         <mark key="[" line="14" column="47" />
       </file>
       <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/SpotlessController.java" timestamp="1587530665773" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1587608031878">
-        <mark key="[" line="197" column="0" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1587610297201">
+        <mark key="[" line="266" column="9" />
+        <mark key="]" line="198" column="42" />
+        <mark key="." line="198" column="42" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/activity/ActivitiesController.java" timestamp="1587545350578">
         <mark key="[" line="405" column="118" />
@@ -259,10 +261,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">SmF2YSA=</text>
+        <text>getBlinded</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SmF2YSA=</text>
+        <text>getBlinded</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
