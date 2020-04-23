@@ -121,7 +121,12 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587624837304" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587632323115">
+        <mark key="[" line="116" column="36" />
+        <mark key="]" line="105" column="0" />
+        <mark key="." line="104" column="14" />
+        <mark key="^" line="117" column="104" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/UserFeedService.java" timestamp="1587617149314">
         <mark key="[" line="586" column="35" />
       </file>
@@ -165,11 +170,9 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FeatureGuideMapSerializer.java" timestamp="1587624746288">
         <mark key="[" line="107" column="102" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/activity/ActivitiesController.java" timestamp="1587545350578">
-        <mark key="[" line="405" column="118" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/VirtualFeedService.java" timestamp="1587624161624" />
       <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/build.gradle" timestamp="1587563284091" />
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common/src/main/java/com/kakao/story/common/cache/manager/CacheConnectionManagerUtils.java" timestamp="1587630900569" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" timestamp="1587624801044">
         <mark key="[" line="55" column="57" />
         <mark key="]" line="55" column="57" />
@@ -282,10 +285,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>session</text>
+        <text encoding="base64">dmFsaWRGZWVkSXRlbSA=</text>
       </register>
       <register name="-" type="4">
-        <text>session</text>
+        <text encoding="base64">dmFsaWRGZWVkSXRlbSA=</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
