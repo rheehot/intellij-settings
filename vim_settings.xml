@@ -121,21 +121,17 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587622259737" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587624837304" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/UserFeedService.java" timestamp="1587617149314">
         <mark key="[" line="586" column="35" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/utils/FeatureUtils.java" timestamp="1587624640754" />
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/frame/Frame.java" timestamp="1587562576289" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FollowActivityMapSerializer.java" timestamp="1587621114417">
         <mark key="[" line="123" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/gradle/SpotlessController.java" timestamp="1587532295998">
-        <mark key="[" line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-maven/pom.xml" timestamp="1587531838051">
-        <mark key="[" line="26" column="37" />
-        <mark key="]" line="51" column="18" />
-        <mark key="." line="51" column="18" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/LikeDao.java" timestamp="1587624349093">
+        <mark key="[" line="309" column="57" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/main/java/bowling/score/FrameScore.java" timestamp="1587562413364">
         <mark key="[" line="20" column="44" />
@@ -144,23 +140,41 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/ButtonExploreItemCardService.java" timestamp="1587624860204">
+        <mark key="[" line="29" column="58" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/ActivityClient.java" timestamp="1587543067566" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/ActivitySerializer.java" timestamp="1587541437291" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/SuggestActivityFeedItemBuilder.java" timestamp="1587624814558" />
       <file name="$USER_HOME$/Desktop/nesoy/java-bowling/src/test/java/bowling/FinalThrowStrategyTest.java" timestamp="1587562538694">
         <mark key="[" line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/src/main/java/com/kakao/story/SpotlessController.java" timestamp="1587530665773" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1587621055728">
-        <mark key="[" line="197" column="80" />
-        <mark key="]" line="201" column="72" />
-        <mark key="." line="201" column="71" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/StoryPopularActivitiesExploreItemCardService.java" timestamp="1587624939976">
+        <mark key="[" line="54" column="58" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1587624695254">
+        <mark key="[" line="151" column="55" />
+        <mark key="]" line="151" column="55" />
+        <mark key="." line="151" column="55" />
         <mark key="^" line="201" column="72" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/cache/flush/CacheFlush.java" timestamp="1587624344651">
+        <mark key="[" line="365" column="60" />
+        <mark key="]" line="365" column="60" />
+        <mark key="." line="365" column="60" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FeatureGuideMapSerializer.java" timestamp="1587624746288">
+        <mark key="[" line="107" column="102" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/activity/ActivitiesController.java" timestamp="1587545350578">
         <mark key="[" line="405" column="118" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/VirtualFeedService.java" timestamp="1587624161624" />
       <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/spotless-gradle/build.gradle" timestamp="1587563284091" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/base/ActivitiesBaseController.java" timestamp="1587542173700" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" timestamp="1587624801044">
+        <mark key="[" line="55" column="57" />
+        <mark key="]" line="55" column="57" />
+        <mark key="." line="55" column="57" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
@@ -268,10 +282,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>session</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZWxzZSA=</text>
+        <text>session</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
