@@ -121,7 +121,8 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587690001894">
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587696979425">
+        <mark key="[" line="192" column="19" />
         <mark key="]" line="105" column="0" />
         <mark key="." line="104" column="14" />
         <mark key="^" line="117" column="104" />
