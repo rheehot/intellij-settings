@@ -29,7 +29,6 @@
         <entry encoding="base64">XDwwXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>82</entry>
         <entry>234</entry>
         <entry>168</entry>
         <entry>81</entry>
@@ -49,6 +48,7 @@
         <entry encoding="base64">JzwsJz4yNzY=</entry>
         <entry>276</entry>
         <entry>vs</entry>
+        <entry>44</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -121,10 +121,10 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587710501647">
-        <mark key="[" line="156" column="54" />
-        <mark key="]" line="147" column="36" />
-        <mark key="." line="147" column="36" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1587711278630">
+        <mark key="[" line="206" column="56" />
+        <mark key="]" line="206" column="57" />
+        <mark key="." line="206" column="57" />
         <mark key="^" line="117" column="104" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/UserFeedService.java" timestamp="1587617149314">
@@ -368,7 +368,7 @@
         <text encoding="base64">CQkJaWYoIm1wNCIuZXF1YWxzKGZlYXR1cmVHdWlkZS50eXBlKSAmJiBGZWF0dXJlVXRpbHMuaXNTdXBwb3J0ZWRGZWF0dXJlKHNlc3Npb24sIEZlYXR1cmVUeXBlLnN1cHBvcnRfYWxsX25ld19zdG9yeSkpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>vs</text>
+        <text>44</text>
       </register>
     </registers>
   </component>
