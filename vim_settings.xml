@@ -130,6 +130,21 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/UserFeedService.java" timestamp="1587617149314">
         <mark key="[" line="586" column="35" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FollowActivityMapSerializer.java" timestamp="1587621114417">
+        <mark key="[" line="123" column="16" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1587707533308">
+        <mark key="[" line="113" column="42" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/LikeDao.java" timestamp="1587629579120">
+        <mark key="[" line="309" column="57" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/MoreMenuService.java" timestamp="1587716327647">
+        <mark key="[" line="42" column="46" />
+        <mark key="]" line="42" column="46" />
+        <mark key="^" line="42" column="46" />
+        <mark key="." line="42" column="45" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/ButtonExploreItemCardService.java" timestamp="1587624860204">
         <mark key="[" line="29" column="58" />
       </file>
@@ -150,32 +165,16 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FeatureGuideMapSerializer.java" timestamp="1587624746288">
         <mark key="[" line="107" column="102" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FollowActivityMapSerializer.java" timestamp="1587621114417">
-        <mark key="[" line="123" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1587707533308">
-        <mark key="[" line="113" column="42" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/LikeDao.java" timestamp="1587629579120">
-        <mark key="[" line="309" column="57" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" timestamp="1587624801044">
         <mark key="[" line="55" column="57" />
         <mark key="]" line="55" column="57" />
         <mark key="." line="55" column="57" />
       </file>
       <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java" timestamp="1587708607770" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/MoreMenuService.java" timestamp="1587714822850">
-        <mark key="[" line="53" column="24" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/opengraph/OpenGraphController.java" timestamp="1587695451904">
         <mark key="[" line="190" column="80" />
         <mark key="]" line="52" column="55" />
         <mark key="." line="52" column="55" />
-      </file>
-      <file name="$USER_HOME$/Desktop/kakao/spotless-tutorial/README.md" timestamp="1587563700746">
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
       </file>
     </filemarks>
     <jumps>
