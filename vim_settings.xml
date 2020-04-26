@@ -127,8 +127,16 @@
         <mark key="." line="206" column="57" />
         <mark key="^" line="117" column="104" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FollowActivityMapSerializer.java" timestamp="1587621114417">
-        <mark key="[" line="123" column="16" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.2.RELEASE/7361b2e28910f2202851c14d4115435b248f668c/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/web/client/RestTemplate.java" timestamp="1587869371088" />
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/job/Crawling.java" timestamp="1587871374084">
+        <mark key="[" line="56" column="31" />
+        <mark key="]" line="47" column="56" />
+        <mark key="." line="47" column="56" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/clients/SnackClients.java" timestamp="1587871035550">
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="32" column="19" />
+        <mark key="." line="32" column="19" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1587707533308">
         <mark key="[" line="113" column="42" />
@@ -136,43 +144,35 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/LikeDao.java" timestamp="1587629579120">
         <mark key="[" line="309" column="57" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.2.RELEASE/7361b2e28910f2202851c14d4115435b248f668c/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/HttpHeaders.java" timestamp="1587869676760" />
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/build.gradle" timestamp="1587871626481">
+        <mark key="[" line="46" column="49" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/MoreMenuService.java" timestamp="1587716327647">
         <mark key="[" line="42" column="46" />
         <mark key="]" line="42" column="46" />
         <mark key="^" line="42" column="46" />
         <mark key="." line="42" column="45" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/ButtonExploreItemCardService.java" timestamp="1587624860204">
-        <mark key="[" line="29" column="58" />
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/clients/ClientConfig.java" timestamp="1587869297118">
+        <mark key="[" line="16" column="67" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/dist.sh" timestamp="1587717429648" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/StoryPopularActivitiesExploreItemCardService.java" timestamp="1587624939976">
         <mark key="[" line="54" column="58" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1587624695254">
-        <mark key="[" line="151" column="55" />
-        <mark key="]" line="151" column="55" />
-        <mark key="." line="151" column="55" />
-        <mark key="^" line="201" column="72" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/cache/flush/CacheFlush.java" timestamp="1587624344651">
-        <mark key="[" line="365" column="60" />
-        <mark key="]" line="365" column="60" />
-        <mark key="." line="365" column="60" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FeatureGuideMapSerializer.java" timestamp="1587624746288">
-        <mark key="[" line="107" column="102" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" timestamp="1587624801044">
-        <mark key="[" line="55" column="57" />
-        <mark key="]" line="55" column="57" />
-        <mark key="." line="55" column="57" />
-      </file>
-      <file name="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/src.zip!/java/util/function/Predicate.java" timestamp="1587708607770" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.2.RELEASE/7361b2e28910f2202851c14d4115435b248f668c/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.java" timestamp="1587868811690" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.2.RELEASE/7361b2e28910f2202851c14d4115435b248f668c/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/converter/json/JsonbHttpMessageConverter.java" timestamp="1587868218242" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.7/26d2e8a615ae6d766bbaed952a9cc286f6860faf/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1587868955360" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/opengraph/OpenGraphController.java" timestamp="1587695451904">
         <mark key="[" line="190" column="80" />
         <mark key="]" line="52" column="55" />
         <mark key="." line="52" column="55" />
+      </file>
+      <file name="/fragment.java" timestamp="1587868854240">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/README.md" timestamp="1587871360418">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -281,10 +281,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text>))</text>
+        <text>feed</text>
       </register>
       <register name="-" type="4">
-        <text>))</text>
+        <text>feed</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
