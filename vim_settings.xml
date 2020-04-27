@@ -132,11 +132,6 @@
         <mark key="]" line="47" column="56" />
         <mark key="." line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/src/main/java/com/snack/news/clients/SnackClients.java" timestamp="1587871035550">
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="32" column="19" />
-        <mark key="." line="32" column="19" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/pom.xml" timestamp="1587968007275">
         <mark key="[" line="110" column="21" />
       </file>
@@ -156,6 +151,7 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/pom.xml" timestamp="1587968286283">
         <mark key="[" line="65" column="15" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/worker/bifrost/BifrostHistoryRecorderBase.java" timestamp="1587976155898" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/type/CommentOption.java" timestamp="1587974381151" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/BundledFeedServiceImpl.java" timestamp="1587964713221">
         <mark key="[" line="419" column="12" />
