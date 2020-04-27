@@ -155,8 +155,8 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.2.RELEASE/7361b2e28910f2202851c14d4115435b248f668c/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/converter/json/MappingJackson2HttpMessageConverter.java" timestamp="1587868811690" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.1.2.RELEASE/7361b2e28910f2202851c14d4115435b248f668c/spring-web-5.1.2.RELEASE-sources.jar!/org/springframework/http/converter/json/JsonbHttpMessageConverter.java" timestamp="1587868218242" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/BundledFeedServiceImpl.java" timestamp="1587962805052">
-        <mark key="[" line="411" column="0" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/BundledFeedServiceImpl.java" timestamp="1587963321535">
+        <mark key="[" line="420" column="25" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.9.7/26d2e8a615ae6d766bbaed952a9cc286f6860faf/jackson-databind-2.9.7-sources.jar!/com/fasterxml/jackson/databind/ObjectMapper.java" timestamp="1587868955360" />
       <file name="$USER_HOME$/Desktop/story/story-common/_copy_jar.sh" timestamp="1587948347519" />
