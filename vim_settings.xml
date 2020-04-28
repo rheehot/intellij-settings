@@ -124,44 +124,49 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1588034880017">
         <mark key="[" line="168" column="16" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/UserFeedService.java" timestamp="1587966233666">
-        <mark key="[" line="590" column="12" />
-        <mark key="]" line="588" column="33" />
-        <mark key="^" line="588" column="33" />
-        <mark key="." line="588" column="32" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/OperatorActivityItemMapSerializer.java" timestamp="1588058627065">
+        <mark key="[" line="35" column="46" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/pom.xml" timestamp="1587968007275">
+        <mark key="[" line="110" column="21" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/OperatorFeedItemBuilder.java" timestamp="1588058260685">
+        <mark key="[" line="29" column="106" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/OperatorActivityMapSerializer.java" timestamp="1588057657333" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/abuse/AbuseReportsController.java" timestamp="1587970209946">
+        <mark key="[" line="111" column="68" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1588058660432">
+        <mark key="[" line="5" column="39" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityItem.java" timestamp="1588058503535">
+        <mark key="[" line="6" column="11" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-util/src/main/java/com/kakao/story/common/utils/ImpressionIDv2.java" timestamp="1588058622318" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/CommentServiceImpl.java" timestamp="1587974386481">
         <mark key="[" line="544" column="38" />
         <mark key="]" line="544" column="38" />
         <mark key="." line="544" column="38" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1588056332697" />
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1588058818256">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="94" />
+        <mark key="." line="39" column="94" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/config/kage/KageConfig.java" timestamp="1588054659829" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/pom.xml" timestamp="1587968286283">
         <mark key="[" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/pom.xml" timestamp="1587968007275">
-        <mark key="[" line="110" column="21" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/config/RootConfig.java" timestamp="1588054647933" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/BundledFeedServiceImpl.java" timestamp="1587964713221">
-        <mark key="[" line="419" column="12" />
-        <mark key="]" line="409" column="13" />
-        <mark key="^" line="409" column="13" />
-        <mark key="." line="409" column="12" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryRequestLoggingFilter.java" timestamp="1588055994502">
         <mark key="[" line="147" column="14" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/abuse/AbuseReportsController.java" timestamp="1587970209946">
-        <mark key="[" line="111" column="68" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http-admin/src/main/java/com/kakao/story/web/admin/controller/KageController.java" timestamp="1588054687735" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusStatServiceImpl.java" timestamp="1587968231916">
         <mark key="[" line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityItem.java" timestamp="1588056373457">
-        <mark key="[" line="9" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -270,10 +275,10 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>feedId</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">bmV3IA==</text>
+        <text>feedId</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwwXD4=</text>
