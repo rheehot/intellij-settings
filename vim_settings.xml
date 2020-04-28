@@ -121,6 +121,9 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1588034880017">
+        <mark key="[" line="168" column="16" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/UserFeedService.java" timestamp="1587966233666">
         <mark key="[" line="590" column="12" />
         <mark key="]" line="588" column="33" />
@@ -132,17 +135,6 @@
         <mark key="]" line="47" column="56" />
         <mark key="." line="47" column="56" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/pom.xml" timestamp="1587968007275">
-        <mark key="[" line="110" column="21" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/Snack-BE/src/main/java/com/snack/news/dto/NewsDto.java" timestamp="1587945228854" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/abuse/AbuseReportsController.java" timestamp="1587970209946">
-        <mark key="[" line="111" column="68" />
-      </file>
-      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/build.gradle" timestamp="1587871626481">
-        <mark key="[" line="46" column="49" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/utils/ActivityUtils.java" timestamp="1587953992188" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/CommentServiceImpl.java" timestamp="1587974386481">
         <mark key="[" line="544" column="38" />
         <mark key="]" line="544" column="38" />
@@ -151,18 +143,24 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/pom.xml" timestamp="1587968286283">
         <mark key="[" line="65" column="15" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/worker/bifrost/BifrostHistoryRecorderBase.java" timestamp="1587976155898" />
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/type/CommentOption.java" timestamp="1587974381151" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/pom.xml" timestamp="1587968007275">
+        <mark key="[" line="110" column="21" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/BundledFeedServiceImpl.java" timestamp="1587964713221">
         <mark key="[" line="419" column="12" />
         <mark key="]" line="409" column="13" />
         <mark key="^" line="409" column="13" />
         <mark key="." line="409" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/abuse/AbuseReportsController.java" timestamp="1587970209946">
+        <mark key="[" line="111" column="68" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/build.gradle" timestamp="1587871626481">
+        <mark key="[" line="46" column="49" />
+      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusStatServiceImpl.java" timestamp="1587968231916">
         <mark key="[" line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/_copy_jar.sh" timestamp="1587948347519" />
       <file name="$USER_HOME$/Desktop/nesoy/snack-news-batch/README.md" timestamp="1587871360418">
         <mark key="[" line="0" column="0" />
       </file>
