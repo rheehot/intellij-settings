@@ -152,6 +152,7 @@
         <mark key="^" line="409" column="13" />
         <mark key="." line="409" column="12" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryRequestLoggingFilter.java" timestamp="1588038404383" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/controller/abuse/AbuseReportsController.java" timestamp="1587970209946">
         <mark key="[" line="111" column="68" />
       </file>
@@ -358,7 +359,7 @@
         <text encoding="base64">CQkJaWYoIm1wNCIuZXF1YWxzKGZlYXR1cmVHdWlkZS50eXBlKSAmJiBGZWF0dXJlVXRpbHMuaXNTdXBwb3J0ZWRGZWF0dXJlKHNlc3Npb24sIEZlYXR1cmVUeXBlLnN1cHBvcnRfYWxsX25ld19zdG9yeSkpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>44</text>
+        <text>48</text>
       </register>
     </registers>
   </component>
