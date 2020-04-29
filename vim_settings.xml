@@ -131,11 +131,6 @@
       </file>
       <file name="$USER_HOME$/Desktop/story/story-common/story-common/src/main/resources/META-INF/common/application-context-rest-uploadfarm-api.xml" timestamp="1588121352788" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-core/pom.xml" timestamp="1588121662209" />
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityItem.java" timestamp="1588058503535">
-        <mark key="[" line="6" column="11" />
-        <mark key="]" line="6" column="11" />
-        <mark key="." line="6" column="11" />
-      </file>
       <file name="$USER_HOME$/Desktop/opensource/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/client/RestTemplateRequestCustomizer.java" timestamp="1588119965099" />
       <file name="$USER_HOME$/Desktop/story/story-classification-server/src/main/java/com/kakao/story/cl/core/config/KurmaClientConfig.java" timestamp="1588125482918" />
       <file name="$USER_HOME$/Desktop/story/story-classification-server/src/main/java/com/kakao/story/cl/common/client/template/StoryRestTemplate.java" timestamp="1588125395115" />
@@ -143,6 +138,7 @@
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1588060358553">
         <mark key="[" line="39" column="31" />
       </file>
+      <file name="$USER_HOME$/Desktop/story/story-classification-server/pom.xml" timestamp="1588125540487" />
       <file name="$USER_HOME$/Desktop/opensource/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/client/RestTemplateCustomizer.java" timestamp="1588119954261" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common/src/main/java/com/kakao/story/common/service/hystrix/HystrixHttpRestCall.java" timestamp="1588125435251" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common/pom.xml" timestamp="1588121566419" />
