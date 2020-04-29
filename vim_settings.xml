@@ -121,18 +121,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/utils/FeatureUtils.java" timestamp="1588141889335" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/ActivityClient.java" timestamp="1588135471173" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1588060358553">
         <mark key="[" line="39" column="31" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusMemberServiceImpl.java" timestamp="1588135220746" />
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1588058660432">
-        <mark key="[" line="5" column="39" />
-      </file>
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryCorsFilter.java" timestamp="1588135371384">
         <mark key="[" line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-classification-server/src/main/java/com/kakao/story/cl/core/config/KurmaClientConfig.java" timestamp="1588133973145" />
+      <file name="/fragment.java" timestamp="1588141886490">
+        <mark key="[" line="0" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
