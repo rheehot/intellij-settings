@@ -121,9 +121,7 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/OperatorActivityItemMapSerializer.java" timestamp="1588058627065">
-        <mark key="[" line="35" column="46" />
-      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/ActivityClient.java" timestamp="1588135471173" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1588060358553">
         <mark key="[" line="39" column="31" />
       </file>
