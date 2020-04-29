@@ -121,38 +121,33 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1588034880017">
-        <mark key="[" line="168" column="16" />
-      </file>
-      <file name="$USER_HOME$/Desktop/opensource/spring-framework/spring-web/src/main/java/org/springframework/web/client/RestTemplate.java" timestamp="1588120425633" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/CommentServiceImpl.java" timestamp="1587974386481">
-        <mark key="[" line="544" column="38" />
-        <mark key="]" line="544" column="38" />
-        <mark key="." line="544" column="38" />
-      </file>
       <file name="$USER_HOME$/Desktop/opensource/spring-framework/spring-web/src/main/java/org/springframework/http/client/support/HttpAccessor.java" timestamp="1588120684483" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/OperatorActivityItemMapSerializer.java" timestamp="1588058627065">
         <mark key="[" line="35" column="46" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1588060358553">
-        <mark key="[" line="39" column="31" />
-      </file>
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common/src/main/java/com/kakao/story/common/http/HttpComponentsClientFactory.java" timestamp="1588121451250" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/OperatorFeedItemBuilder.java" timestamp="1588058260685">
         <mark key="[" line="29" column="106" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryRequestLoggingFilter.java" timestamp="1588055994502">
-        <mark key="[" line="147" column="14" />
       </file>
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivity.java" timestamp="1588058660432">
         <mark key="[" line="5" column="39" />
       </file>
-      <file name="$USER_HOME$/Desktop/opensource/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/client/RestTemplateCustomizer.java" timestamp="1588119954261" />
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common/src/main/resources/META-INF/common/application-context-rest-uploadfarm-api.xml" timestamp="1588121352788" />
       <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityItem.java" timestamp="1588058503535">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
       <file name="$USER_HOME$/Desktop/opensource/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/client/RestTemplateRequestCustomizer.java" timestamp="1588119965099" />
+      <file name="$USER_HOME$/Desktop/opensource/spring-framework/spring-web/src/main/java/org/springframework/web/client/RestTemplate.java" timestamp="1588120425633" />
+      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/model/feed/OperatorActivityContainer.java" timestamp="1588060358553">
+        <mark key="[" line="39" column="31" />
+      </file>
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryRequestLoggingFilter.java" timestamp="1588055994502">
+        <mark key="[" line="147" column="14" />
+      </file>
+      <file name="$USER_HOME$/Desktop/opensource/spring-boot/spring-boot-project/spring-boot/src/main/java/org/springframework/boot/web/client/RestTemplateCustomizer.java" timestamp="1588119954261" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/activity/caller/impl/AbstractHttpExploreActivityCaller.java" timestamp="1588121387939" />
     </filemarks>
     <jumps>
       <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
