@@ -46,9 +46,9 @@
         <entry>178</entry>
         <entry encoding="base64">JzwsJz4yNzY=</entry>
         <entry>276</entry>
-        <entry>vs</entry>
         <entry>44</entry>
         <entry>48</entry>
+        <entry>vs</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -124,16 +124,14 @@
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/ButtonExploreItemCardService.java" timestamp="1588143041747">
         <mark key="[" line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRestMvc.java" timestamp="1588759231492">
-        <mark key="[" line="11" column="103" />
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRestMvc.java" timestamp="1588769518118">
+        <mark key="[" line="18" column="60" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientConfiguration.java" timestamp="1588759105742">
         <mark key="[" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRest.java" timestamp="1588759161741" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryCorsFilter.java" timestamp="1588135371384">
-        <mark key="[" line="42" column="0" />
-      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRest.java" timestamp="1588769508374" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.5.RELEASE/113474296c0a70b05db23b6e805a823b768fd61e/spring-web-5.2.5.RELEASE-sources.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.java" timestamp="1588769498795" />
       <file name="/fragment.java" timestamp="1588142739451">
         <mark key="[" line="0" column="0" />
       </file>
@@ -331,7 +329,7 @@
         <text encoding="base64">CQkJaWYoIm1wNCIuZXF1YWxzKGZlYXR1cmVHdWlkZS50eXBlKSAmJiBGZWF0dXJlVXRpbHMuaXNTdXBwb3J0ZWRGZWF0dXJlKHNlc3Npb24sIEZlYXR1cmVUeXBlLnN1cHBvcnRfYWxsX25ld19zdG9yeSkpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>48</text>
+        <text>vs</text>
       </register>
     </registers>
   </component>
