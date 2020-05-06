@@ -121,20 +121,24 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.5.12/f899c33d48d6d513ddda79441b4ba90643f19f8/httpclient-4.5.12-sources.jar!/org/apache/http/impl/conn/PoolingHttpClientConnectionManager.java" timestamp="1588770954225" />
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/resources/application.yml" timestamp="1588771246791" />
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRest.java" timestamp="1588771663818">
+        <mark key="[" line="50" column="65" />
+      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.5.RELEASE/113474296c0a70b05db23b6e805a823b768fd61e/spring-web-5.2.5.RELEASE-sources.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.java" timestamp="1588769498795" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.6.RELEASE/bc55d7c1a9020afde196285b81a3ab42058063b5/spring-boot-2.2.6.RELEASE-sources.jar!/org/springframework/boot/web/client/RestTemplateBuilder.java" timestamp="1588771459954" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/ButtonExploreItemCardService.java" timestamp="1588143041747">
         <mark key="[" line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRestMvc.java" timestamp="1588769518118">
-        <mark key="[" line="18" column="60" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.5.RELEASE/113474296c0a70b05db23b6e805a823b768fd61e/spring-web-5.2.5.RELEASE-sources.jar!/org/springframework/web/client/DefaultResponseErrorHandler.java" timestamp="1588771802291" />
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRestMvc.java" timestamp="1588771105608">
+        <mark key="[" line="26" column="54" />
       </file>
       <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientConfiguration.java" timestamp="1588759105742">
         <mark key="[" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRest.java" timestamp="1588769508374" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.5.RELEASE/113474296c0a70b05db23b6e805a823b768fd61e/spring-web-5.2.5.RELEASE-sources.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.java" timestamp="1588769498795" />
-      <file name="/fragment.java" timestamp="1588142739451">
-        <mark key="[" line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.2.6.RELEASE/9faf3b024e3fd07fe6da43aff987319527b5fbce/spring-boot-test-2.2.6.RELEASE-sources.jar!/org/springframework/boot/test/web/client/MockServerRestTemplateCustomizer.java" timestamp="1588770176649" />
     </filemarks>
     <jumps>
       <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
