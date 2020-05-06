@@ -121,27 +121,19 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/service/v2/OperatorFeedService.java" timestamp="1588143247352" />
-      <file name="$USER_HOME$/Desktop/story/story-common/story-common-model/src/main/java/com/kakao/story/common/service/utils/FeatureUtils.java" timestamp="1588142854005" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/ExploreBannerServiceImpl.java" timestamp="1588142704774" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/ExploreItemCardFactory.java" timestamp="1588142774972" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FollowActivityMapSerializer.java" timestamp="1588143131666" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/PlusMemberServiceImpl.java" timestamp="1588135220746" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/AbstractExploreItemCardService.java" timestamp="1588142460744" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryCorsFilter.java" timestamp="1588135371384">
-        <mark key="[" line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/MoreMenuService.java" timestamp="1588143287138" />
       <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/ButtonExploreItemCardService.java" timestamp="1588143041747">
         <mark key="[" line="30" column="89" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/client/ActivityClient.java" timestamp="1588135471173" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/SuggestActivityMapSerializer.java" timestamp="1588143191229" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/SuggestActivityFeedItemBuilder.java" timestamp="1588143214620" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/StoryPopularActivitiesExploreItemCardService.java" timestamp="1588143353164" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/BundledFeedActivityMapSerializer.java" timestamp="1588143075433" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/serializer/map/feed/FeatureGuideMapSerializer.java" timestamp="1588143109771" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/feed/builder/FollowFeedItemBuilder.java" timestamp="1588143181180" />
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRestMvc.java" timestamp="1588759231492">
+        <mark key="[" line="11" column="103" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientConfiguration.java" timestamp="1588759105742">
+        <mark key="[" line="18" column="4" />
+      </file>
+      <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRest.java" timestamp="1588759161741" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-http/src/main/java/com/kakao/story/web/core/filter/StoryCorsFilter.java" timestamp="1588135371384">
+        <mark key="[" line="42" column="0" />
+      </file>
       <file name="/fragment.java" timestamp="1588142739451">
         <mark key="[" line="0" column="0" />
       </file>
