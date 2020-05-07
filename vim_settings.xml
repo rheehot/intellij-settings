@@ -129,7 +129,8 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.5.RELEASE/113474296c0a70b05db23b6e805a823b768fd61e/spring-web-5.2.5.RELEASE-sources.jar!/org/springframework/http/client/HttpComponentsClientHttpRequestFactory.java" timestamp="1588769498795" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/2.2.6.RELEASE/bc55d7c1a9020afde196285b81a3ab42058063b5/spring-boot-2.2.6.RELEASE-sources.jar!/org/springframework/boot/web/client/RestTemplateBuilder.java" timestamp="1588771459954" />
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/AbstractExploreItemCardService.java" timestamp="1588823835278" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/dao/ExploreServiceDao.java" timestamp="1588829745902" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/banner/itemcard/impl/AbstractExploreItemCardService.java" timestamp="1588828711273" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/5.2.5.RELEASE/113474296c0a70b05db23b6e805a823b768fd61e/spring-web-5.2.5.RELEASE-sources.jar!/org/springframework/web/client/DefaultResponseErrorHandler.java" timestamp="1588771802291" />
       <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientRestMvc.java" timestamp="1588771105608">
         <mark key="[" line="26" column="54" />
@@ -137,11 +138,12 @@
       <file name="$USER_HOME$/Desktop/nesoy/rest-template-of-spring/client/src/main/java/io/honeymon/study/resttemplate/client/infrastructure/ServerClientConfiguration.java" timestamp="1588759105742">
         <mark key="[" line="18" column="4" />
       </file>
-      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/activity/ExploreContentsScheduler.java" timestamp="1588823833965" />
+      <file name="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/activity/ExploreContentsScheduler.java" timestamp="1588829739653">
+        <mark key="'" line="34" column="17" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-test/2.2.6.RELEASE/9faf3b024e3fd07fe6da43aff987319527b5fbce/spring-boot-test-2.2.6.RELEASE-sources.jar!/org/springframework/boot/test/web/client/MockServerRestTemplateCustomizer.java" timestamp="1588770176649" />
     </filemarks>
     <jumps>
-      <jump line="7" column="3" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/displayname/DisplayNameDemo.java" />
       <jump line="36" column="4" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/standard/StandardTest.java" />
       <jump line="31" column="4" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/assertions/AssertionsDemo.java" />
       <jump line="85" column="4" filename="$USER_HOME$/Desktop/nesoy/junit-5/src/test/java/assertions/AssertionsDemo.java" />
@@ -241,6 +243,7 @@
       <jump line="10" column="8" filename="$USER_HOME$/Desktop/kakao/all-new-story-admin/admin/src/main/java/com/kakao/story/admin/app/AppController.java" />
       <jump line="13" column="0" filename="$USER_HOME$/Desktop/kakao/all-new-story-admin/build.gradle" />
       <jump line="648" column="12" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/FriendRecommendServiceImpl.java" />
+      <jump line="34" column="17" filename="$USER_HOME$/Desktop/story/story-app-server/story-app-service/src/main/java/com/kakao/story/v2/service/explore/activity/ExploreContentsScheduler.java" />
     </jumps>
   </component>
   <component name="VimRegisterSettings">
